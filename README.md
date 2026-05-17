@@ -5,9 +5,11 @@ Hi, this is my first GitHub repository.
 Here I will share my cybersecurity learning journey, notes, tools, practice labs, and web security projects.
 <br>
 ##About Me
+<br>
 Author: Lucky Naruka
+<br>
 
-What This Repository Contains
+##What This Repository Contains
 --Cybersecurity learning notes
 --Hands-on practice and lab work
 --Tools and commands I learn
